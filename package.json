@@ -15,7 +15,8 @@
     "react-scripts": "3.3.0",
     "serverless-http": "^2.3.0",
     "vue": "^2.6.11",
-    "vue-server-renderer": "^2.6.11"
+    "vue-server-renderer": "^2.6.11",
+    "ytdl-core": "^1.0.7"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=dev npm-run-all --parallel start:app start:server",
